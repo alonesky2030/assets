@@ -1,0 +1,12 @@
+{
+    "name": "Amtrust Coin",
+    "website": "https://amtrust.io",
+    "description": "Tokens help maximum financial coverage",
+    "explorer": "https://etherscan.io/token/0x3e27d3f03054805f3288032ad611d81e63e04cc6",
+    "research": "https://etherscan.io/token/0x3e27d3f03054805f3288032ad611d81e63e04cc6",
+    "type": "ERC20",
+    "symbol": "AMT",
+    "decimals": 16,
+    "status": "active",
+    "id": "0x3e27d3f03054805f3288032ad611d81e63e04cc6"
+}
